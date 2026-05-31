@@ -5,4 +5,4 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Superstore - Understanding Returns | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers. |
+| 1 | Superstore - Understanding Returns | The project task was to prepare a live Dashboard that gives insight into the shopping returns of Superstore customers. |
